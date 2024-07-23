@@ -27,3 +27,11 @@ Technical Design Document
 
 ## **Frontend Implementation**
 
+- **/start-server/clientname**
+  GENERATE NEW COMPONENT:
+
+  GENERATE NEW SERVICE:
+
+  SETTINGS.SERVICE.TS
+➢ Set up the FuseNavigationItem
+Add guard set up to prevent unauthorized access
