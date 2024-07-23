@@ -56,3 +56,14 @@ Technical Design Document
 - **SETTINGS.GUARD.TS**
   - **CANACTIVATE: To restrict the unauthorized user from route access**
   - **CANLOAD: Prevents the module from download**
+
+## **Backend Implementation**
+
+- **define a helper function for fetching order count and order value from the db in src/services/helper.ts file**
+- **declare an abstract function in src/services/storeProvider.ts file**
+- **define the abstract function in src/services/shopify/controller.ts file**
+- **define an endpoint /store-info in the src/services/routes.ts file**
+- **call the helper and abstract function in the route function in scr/services/routes.ts **
+
+## **Flow Diagram**
+<img width="830" alt="RESPONSE" src="https://github.com/user-attachments/assets/5e7609f0-7ae1-4e42-9498-5e05c10372a5">
