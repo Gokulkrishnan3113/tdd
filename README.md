@@ -73,16 +73,16 @@ Technical Design Document
 
 ## **API definitions**
 
-GET store information
-	description : retrieves the starting date of the shopify store, total order value, total order count
-	endpoint :  assistedsales/store-info
-	http method : GET
-	expected response: JSON object
-	{
-	    "orderCount": "95",
-	    "orderValue": "54231.00",
-	    "startDate": "2021-07-07T01:16:07+05:30"
-	}
+	GET store information
+		description : retrieves the starting date of the shopify store, total order value, total order count
+		endpoint :  assistedsales/store-info
+		http method : GET
+		expected response: JSON object
+		{
+		    "orderCount": "95",
+		    "orderValue": "54231.00",
+		    "startDate": "2021-07-07T01:16:07+05:30"
+		}
 
 
 
