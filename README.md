@@ -86,3 +86,15 @@ Technical Design Document
 
 
 
+## **test cases**
+- [Test Cases Sheet](https://docs.google.com/spreadsheets/d/15NVqq-XLavCbmZvw9VY_tzrJRTe7o6avAdgONywKpUo/edit?gid=0#gid=0)
+
+## **Negative Scenarios**
+
+- **Backfill error**
+- **Shopify invalid token**
+
+## **Future Scope**
+
+- **Multiple currency code**
+- **Multiple online stores (woocommerce, native store...)**
