@@ -96,7 +96,7 @@ Technical Design Document
 ## **Negative Scenarios**
 
 - **Backfill error**
-- **Shopify invalid token**
+- **Shopify invalid token error**
 
 ## **Future Scope**
 
