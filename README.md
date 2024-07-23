@@ -65,7 +65,7 @@ Technical Design Document
 
 - **define a helper function for fetching order count and order value from the db in src/services/helper.ts file**
 - **declare an abstract function in src/services/storeProvider.ts file**
-- **define the abstract function with external shopify api call in src/services/shopify/controller.ts file**
+- **define the abstract function with an external shopify api call to fetch start date in src/services/shopify/controller.ts file**
 - **define an endpoint /store-info in the src/services/routes.ts file**
 - **call the helper and abstract function in the route function in scr/services/routes.ts**
 
