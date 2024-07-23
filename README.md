@@ -10,12 +10,16 @@ Technical Design Document
 
 ## Table of Contents
 
-- [Objective](#objective)
-- [Problem Description and Proposed Solution](#problem-description-and-proposed-solution)
-- [Flow Diagram for Server Restart](#flow-diagram-for-server-restart)
-- [Config Migration and DB Migration](#config-migration-and-db-migration)
-- [Interface/API Definitions (Schemas)](#interfaceapi-definitions-schemas)
+- [Objective](#Objective)
+- [Frontend Implementation](#Frontend-Implementation)
+- [Backend Implementation](#Backend-Implementation)
+- [Flow Diagram](#Flow-Diagram)
+- [API Endpoints](#API-Endpoints)
+- [API definitions](#API-definitions)
 - [Test Cases](#test-cases)
+- [Negative Scenarios](#Negative-Scenarios)
+- [Future Scope](#Future-Scope)
+
   
 ---
 
