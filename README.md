@@ -97,6 +97,7 @@ Technical Design Document
 
 - **Backfill error**
 - **Shopify invalid token error**
+- **Failed to display error messages in frontend**
 
 ## **Future Scope**
 
