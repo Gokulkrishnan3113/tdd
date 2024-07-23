@@ -27,7 +27,6 @@ Technical Design Document
 
   To fetch and show details such as order value, order count, shopify store start date on the settings menu in the dashboard
 
----
 
 ## **Frontend Implementation**
 
