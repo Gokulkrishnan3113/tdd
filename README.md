@@ -26,7 +26,8 @@ Technical Design Document
 ## **Objective**
 
   To fetch and show details such as order value, order count, shopify store start date on the settings menu in the dashboard
-  
+
+---
 
 ## **Frontend Implementation**
 
@@ -60,6 +61,8 @@ Technical Design Document
   - **CANACTIVATE: To restrict the unauthorized user from route access**
   - **CANLOAD: Prevents the module from download**
 
+---
+
 ## **Backend Implementation**
 
 - **define a helper function for fetching order count and order value from the db in src/services/helper.ts file**
@@ -68,11 +71,17 @@ Technical Design Document
 - **define an endpoint /store-info in the src/services/routes.ts file**
 - **call the helper and abstract function in the route function in scr/services/routes.ts**
 
+---
+
 ## **Flow Diagram**
 <img width="830" alt="RESPONSE" src="https://github.com/user-attachments/assets/5e7609f0-7ae1-4e42-9498-5e05c10372a5">
 
+---
+
 ## **API Endpoints**
 - **assistedsales/store-info**
+
+---
 
 ## **API definitions**
 
@@ -88,9 +97,12 @@ Technical Design Document
 		}
 
 
+---
 
 ## **test cases**
 - [Test Cases Sheet](https://docs.google.com/spreadsheets/d/15NVqq-XLavCbmZvw9VY_tzrJRTe7o6avAdgONywKpUo/edit?gid=0#gid=0)
+
+---
 
 ## **Negative Scenarios**
 
@@ -98,7 +110,11 @@ Technical Design Document
 - **Shopify invalid token error**
 - **Failed to display error messages in frontend**
 
+---
+
 ## **Future Scope**
 
 - **Multiple currency code**
 - **Multiple online stores (woocommerce, native store...)**
+
+---
