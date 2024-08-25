@@ -29,5 +29,5 @@ Technical Design Document
 
 
 
-![image](https://github.com/user-attachments/assets/ea0f4982-1d62-4f09-be00-0dd3af1a440b)
+![image](https://github.com/user-attachments/assets/27ee4079-34d9-4c19-836a-99759b8b8fe4)
 
