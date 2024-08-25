@@ -13,10 +13,7 @@ Technical Design Document
 - [Objective](#Objective)
 - [Backend Implementation](#Backend-Implementation)
 - [Flow Diagram](#Flow-Diagram)
-- [API Endpoints](#API-Endpoints)
-- [API definitions](#API-definitions)
 - [Test Cases](#test-cases)
-- [Negative Scenarios](#Negative-Scenarios)
 - [Future Scope](#Future-Scope)
 
   
