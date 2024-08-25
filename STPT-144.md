@@ -41,3 +41,9 @@ Technical Design Document
 
 ## **Test cases**
 - [Test Cases Sheet](https://docs.google.com/spreadsheets/d/1T1WkJ1I1yV2c2wCxsbaRHHz5E03pEd5Qs4dNTLfI31A/edit?usp=sharing)
+
+
+
+## **Future Scope**
+
+- **Online stores other than shopify and woocommerce**
