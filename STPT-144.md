@@ -28,6 +28,14 @@ Technical Design Document
 
 
 
+## **Backend Implementation**
 
+- **declare an abstract function in src/services/storeProvider.ts file**
+- **define the abstract function for both shopify and woocommerce stores in src/services/shopify/controller.ts  and src/services/woocommerce/controller.ts files respectively**
+- **call the abstract function in the endofflow function in src/notifications/controllers/Notifications.ts file**
+
+
+## **Flow Diagram**
 ![image](https://github.com/user-attachments/assets/bc253307-b9b9-4d5b-a322-fd0bb9bb48e0)
+
 
