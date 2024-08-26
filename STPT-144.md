@@ -20,7 +20,7 @@ Technical Design Document
 
 ## **Objective**
 
-  To start passing order notes for each order whenever a customer places a cod order and confirms the cod orde rvia the COD Confirmation Notification on the bot.
+  To start passing order notes for each order whenever a customer places a cod order and confirms the cod order via the COD Confirmation Notification on the bot.
 
 
 
